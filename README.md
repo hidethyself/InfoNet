@@ -40,7 +40,7 @@ python feature.py --full_rank
 pyhton train.py
 ```
 
-## Step 07: Create low-rank feature set, $\~F$
+## Step 07: Create low-rank feature set, $`\~F`$
 - Update `feature_params` from <code>parameters/parameters.py</code> . For example, to create $\~F$ with $75\%$ of dopping `feature_params` should be like this:
     ```python
     feature_params = {
