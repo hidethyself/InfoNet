@@ -1,7 +1,7 @@
 # **_InfoNet_**: Missing Information Retrieval in Multi-Stream Sensing Systems
 
 
-## Step 01: Clone this repository
+## Step 01: Clone this repository and navigate to the folder
 ```
 cd <folder>
 ```
@@ -25,7 +25,7 @@ cd data
 unzip <downloaded_file>.zip
 ```
 
-### Note: A small subset of data is provided with the repository to test the pipeline. TO train the whole model with the full dataset, please follow the link given above.
+### Note: A small subset of data is provided with the repository to test the pipeline. To train the whole model with the full dataset, please follow the link given above.
 
 <br>
 
