@@ -29,7 +29,8 @@ unzip <downloaded_file>.zip
 
 <br>
 
-## Step 05: Create the full-rank feature, ```math $F$```
+## Step 05: Create the full-rank feature, 
+```math $F$```
 
 ```
 python feature.py --full_rank
