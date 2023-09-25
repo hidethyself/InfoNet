@@ -41,7 +41,7 @@ pyhton train.py
 ```
 
 ## Step 07: Create low-rank feature set, $`\tilde{F}`$
-- Update `feature_params` from <code>parameters/parameters.py</code> . For example, to create $\~F$ with $75\%$ of dopping `feature_params` should be like this:
+- Update `feature_params` from <code>parameters/parameters.py</code> . For example, to create $`\tilde{F}`$ with $`75\%`$ of dopping `feature_params` should be like this:
     ```python
     feature_params = {
         "is_doping": True,
