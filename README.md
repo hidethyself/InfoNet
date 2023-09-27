@@ -18,7 +18,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## Step 04: Download the data form [here](https://drive.google.com/drive/folders/1QJmWeeMR_ws_F5QDR_g2jzclX_6THeZ1). Unzip the downladed file into the   `<data>` folder.
+## Step 04: Download the data form [here](https://drive.google.com/drive/folders/1YbOdBA8p-WI_FRT7ktbiex3TXhZS7igb?usp=sharing). Unzip the downladed file into the   `<data>` folder.
 ```
 mkdir data
 cd data
