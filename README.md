@@ -1,7 +1,7 @@
 # **_InfoNet_**: Missing Information Retrieval in Multi-Stream Sensing Systems
 
 
-## Step 01: Clone this repository and navigate to the folder
+## Step 01: Clone this repository
 ```
 git clone https://github.com/hidethyself/InfoNet.git
 cd InfoNet
