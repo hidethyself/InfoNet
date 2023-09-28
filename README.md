@@ -3,7 +3,8 @@
 
 ## Step 01: Clone this repository and navigate to the folder
 ```
-cd <folder>
+git clone https://github.com/hidethyself/InfoNet.git
+cd InfoNet
 ```
 
 ## Step 02: Create virtual environment
